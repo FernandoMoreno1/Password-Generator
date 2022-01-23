@@ -11,5 +11,6 @@ JAVASCRIPT
 ## Website
 
 ## Preview
+file:///Users/fernandomoreno/Desktop/Challenges/week%203/Assets/03-javascript-homework-demo.png
 
 
