@@ -11,5 +11,5 @@ JAVASCRIPT
 ## Website
 
 ## Preview
-![Screen Shot 2022-01-22 at 8 34 50 PM](https://user-images.githubusercontent.com/94732823/150661188-0282ae5b-65a8-458a-8941-1131d5eeae56.png)
+
 
