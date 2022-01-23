@@ -10,7 +10,4 @@ JAVASCRIPT
 
 ## Website
 
-## Preview
-file:///Users/fernandomoreno/Desktop/Challenges/week%203/Assets/03-javascript-homework-demo.png
-
-
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/94732823/150661214-dd8122bf-6521-471f-bfed-e0bd7d739d6e.png)
